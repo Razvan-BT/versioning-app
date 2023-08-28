@@ -1,5 +1,13 @@
 # .github/release.yml
+              
 
+- name: Automatic Releases
+
+              
+
+  uses: marvinpinto/action-automatic-releases@v1.2.1
+
+            
 changelog:
   exclude:
     labels:
